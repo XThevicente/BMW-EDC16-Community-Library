@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "version": "1",
+  "updated": "2026-09-07",
+  "profiles": [
+    {
+      "sw": "1037361891",
+      "hw": "0281011121",
+      "family": "EDC16C31",
+      "version": "O_09VAC3",
+      "maps": 61,
+      "url": "profiles/1037361891.json",
+      "sha256": "c9efd642979c82022f11c05bd5be55f6450b0e04e0dcc99e2e00eadabfb671e3"
+    },
+    {
+      "sw": "1037377373",
+      "hw": "0281011121",
+      "family": "EDC16C31",
+      "version": "O_19VAC4",
+      "maps": 61,
+      "url": "profiles/1037377373.json",
+      "sha256": "e285f44191356da8b04d54e2696822d215cb2ac9731dfb1765554bd55a8b0ef3"
+    },
+    {
+      "sw": "1037361860",
+      "hw": "0281011223",
+      "family": "EDC16C31",
+      "version": "O_14V9A2",
+      "maps": 63,
+      "url": "profiles/1037361860.json",
+      "sha256": "2b8f79d293ef4a10827be750a185852d6a2bbf027fd99979970ba50461730825"
+    },
+    {
+      "sw": "1037500774",
+      "hw": "0281015130",
+      "family": "EDC16C35",
+      "version": "O_31JAE5",
+      "maps": 83,
+      "url": "profiles/1037500774.json",
+      "sha256": "79be91a963a4129d65e28964d1e39918803e335adc9ff99d38cae2fcd17ed370"
+    }
+  ]
+}

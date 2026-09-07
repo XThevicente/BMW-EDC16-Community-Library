@@ -1,0 +1,593 @@
+{
+  "schema": 1,
+  "sw": "1037500774",
+  "hw": "0281015130",
+  "family": "EDC16C35",
+  "version": "O_31JAE5",
+  "validated": "EDCMasterHP",
+  "exact": true,
+  "source": "built-in seed",
+  "maps": [
+    {
+      "address": "C70FC",
+      "rows": 8,
+      "cols": 14,
+      "name": "Driver's Wish 1",
+      "category": "PAR / CARGA"
+    },
+    {
+      "address": "C7274",
+      "rows": 8,
+      "cols": 14,
+      "name": "Driver's Wish 2",
+      "category": "PAR / CARGA"
+    },
+    {
+      "address": "C8C5A",
+      "rows": 16,
+      "cols": 16,
+      "name": "EGR",
+      "category": "EGR"
+    },
+    {
+      "address": "C8E9E",
+      "rows": 16,
+      "cols": 16,
+      "name": "EGR",
+      "category": "EGR"
+    },
+    {
+      "address": "C935E",
+      "rows": 16,
+      "cols": 16,
+      "name": "BMW MAF",
+      "category": "HUMO / AFR"
+    },
+    {
+      "address": "C9A2E",
+      "rows": 16,
+      "cols": 16,
+      "name": "EGR",
+      "category": "EGR"
+    },
+    {
+      "address": "CC5D2",
+      "rows": 16,
+      "cols": 1,
+      "name": "EGR Hysteresis",
+      "category": "EGR"
+    },
+    {
+      "address": "CC638",
+      "rows": 16,
+      "cols": 1,
+      "name": "EGR Hysteresis",
+      "category": "EGR"
+    },
+    {
+      "address": "CE88E",
+      "rows": 4,
+      "cols": 1,
+      "name": "Map Sensor",
+      "category": "SENSORES"
+    },
+    {
+      "address": "CEF4E",
+      "rows": 10,
+      "cols": 1,
+      "name": "Torque Limiter Limp",
+      "category": "PAR / CARGA"
+    },
+    {
+      "address": "CEF78",
+      "rows": 10,
+      "cols": 1,
+      "name": "Torque Limiter Limp",
+      "category": "PAR / CARGA"
+    },
+    {
+      "address": "CEFA2",
+      "rows": 10,
+      "cols": 1,
+      "name": "Torque Limiter Limp",
+      "category": "PAR / CARGA"
+    },
+    {
+      "address": "CEFCC",
+      "rows": 10,
+      "cols": 1,
+      "name": "Torque Limiter Limp",
+      "category": "PAR / CARGA"
+    },
+    {
+      "address": "CEFF6",
+      "rows": 10,
+      "cols": 1,
+      "name": "Torque Limiter Limp",
+      "category": "PAR / CARGA"
+    },
+    {
+      "address": "CF09A",
+      "rows": 8,
+      "cols": 12,
+      "name": "Torque Back Pressure Limiter",
+      "category": "LIMITADORES"
+    },
+    {
+      "address": "CF1C4",
+      "rows": 6,
+      "cols": 9,
+      "name": "EGT Limiter",
+      "category": "LIMITADORES"
+    },
+    {
+      "address": "D5E60",
+      "rows": 1,
+      "cols": 1,
+      "name": "DPF Switch",
+      "category": "SWITCHES"
+    },
+    {
+      "address": "D8614",
+      "rows": 8,
+      "cols": 21,
+      "name": "Torque Limiter",
+      "category": "PAR / CARGA"
+    },
+    {
+      "address": "D8DD4",
+      "rows": 9,
+      "cols": 9,
+      "name": "BMW ATM Correction",
+      "category": "CORRECCIONES"
+    },
+    {
+      "address": "D8F60",
+      "rows": 7,
+      "cols": 7,
+      "name": "Speed Temp Correction",
+      "category": "CORRECCIONES"
+    },
+    {
+      "address": "D8FE2",
+      "rows": 7,
+      "cols": 7,
+      "name": "Speed Temp Correction",
+      "category": "CORRECCIONES"
+    },
+    {
+      "address": "D9066",
+      "rows": 1,
+      "cols": 1,
+      "name": "SVRL",
+      "category": "LIMITADORES"
+    },
+    {
+      "address": "D90C8",
+      "rows": 8,
+      "cols": 20,
+      "name": "Torque Region Limiter",
+      "category": "LIMITADORES"
+    },
+    {
+      "address": "D9232",
+      "rows": 20,
+      "cols": 1,
+      "name": "Torque Limiter",
+      "category": "PAR / CARGA"
+    },
+    {
+      "address": "D929C",
+      "rows": 8,
+      "cols": 21,
+      "name": "Torque Limiter",
+      "category": "PAR / CARGA"
+    },
+    {
+      "address": "D9402",
+      "rows": 10,
+      "cols": 1,
+      "name": "Torque Limiter",
+      "category": "PAR / CARGA"
+    },
+    {
+      "address": "D9440",
+      "rows": 20,
+      "cols": 1,
+      "name": "Torque Limiter",
+      "category": "PAR / CARGA"
+    },
+    {
+      "address": "DB1A6",
+      "rows": 16,
+      "cols": 16,
+      "name": "Lambda calculations",
+      "category": "HUMO / AFR"
+    },
+    {
+      "address": "DB3EA",
+      "rows": 16,
+      "cols": 16,
+      "name": "Lambda calculations",
+      "category": "HUMO / AFR"
+    },
+    {
+      "address": "DB638",
+      "rows": 16,
+      "cols": 16,
+      "name": "Lambda calculations",
+      "category": "HUMO / AFR"
+    },
+    {
+      "address": "DB87C",
+      "rows": 16,
+      "cols": 16,
+      "name": "Lambda calculations",
+      "category": "HUMO / AFR"
+    },
+    {
+      "address": "DBAC0",
+      "rows": 16,
+      "cols": 16,
+      "name": "Lambda calculations",
+      "category": "HUMO / AFR"
+    },
+    {
+      "address": "DBD0E",
+      "rows": 16,
+      "cols": 16,
+      "name": "Lambda calculations",
+      "category": "HUMO / AFR"
+    },
+    {
+      "address": "DBF52",
+      "rows": 16,
+      "cols": 16,
+      "name": "Lambda calculations",
+      "category": "HUMO / AFR"
+    },
+    {
+      "address": "DC1A0",
+      "rows": 16,
+      "cols": 16,
+      "name": "Lambda calculations",
+      "category": "HUMO / AFR"
+    },
+    {
+      "address": "DC3E4",
+      "rows": 16,
+      "cols": 16,
+      "name": "Lambda calculations",
+      "category": "HUMO / AFR"
+    },
+    {
+      "address": "DCBEE",
+      "rows": 16,
+      "cols": 16,
+      "name": "IQ to Nm Conversion",
+      "category": "PAR / CARGA"
+    },
+    {
+      "address": "DCE26",
+      "rows": 16,
+      "cols": 10,
+      "name": "IQ to Nm Conversion",
+      "category": "PAR / CARGA"
+    },
+    {
+      "address": "DD106",
+      "rows": 16,
+      "cols": 20,
+      "name": "IQ to Nm Conversion",
+      "category": "PAR / CARGA"
+    },
+    {
+      "address": "DD5E2",
+      "rows": 16,
+      "cols": 16,
+      "name": "IQ to Nm Conversion",
+      "category": "PAR / CARGA"
+    },
+    {
+      "address": "DD826",
+      "rows": 16,
+      "cols": 16,
+      "name": "IQ to Nm Conversion",
+      "category": "PAR / CARGA"
+    },
+    {
+      "address": "DDFF6",
+      "rows": 16,
+      "cols": 16,
+      "name": "Start of Injection",
+      "category": "SOI"
+    },
+    {
+      "address": "DE23A",
+      "rows": 16,
+      "cols": 16,
+      "name": "Turbo Boost",
+      "category": "TURBO / BOOST"
+    },
+    {
+      "address": "DF036",
+      "rows": 10,
+      "cols": 1,
+      "name": "Gear Limiter",
+      "category": "LIMITADORES"
+    },
+    {
+      "address": "DF060",
+      "rows": 10,
+      "cols": 1,
+      "name": "Gear Limiter",
+      "category": "LIMITADORES"
+    },
+    {
+      "address": "DF08A",
+      "rows": 10,
+      "cols": 1,
+      "name": "Gear Limiter",
+      "category": "LIMITADORES"
+    },
+    {
+      "address": "DF0B4",
+      "rows": 10,
+      "cols": 1,
+      "name": "Gear Limiter",
+      "category": "LIMITADORES"
+    },
+    {
+      "address": "DF0DE",
+      "rows": 10,
+      "cols": 1,
+      "name": "Gear Limiter",
+      "category": "LIMITADORES"
+    },
+    {
+      "address": "DF108",
+      "rows": 10,
+      "cols": 1,
+      "name": "Gear Limiter",
+      "category": "LIMITADORES"
+    },
+    {
+      "address": "DF132",
+      "rows": 10,
+      "cols": 1,
+      "name": "Gear Limiter",
+      "category": "LIMITADORES"
+    },
+    {
+      "address": "DF15C",
+      "rows": 10,
+      "cols": 1,
+      "name": "Gear Limiter",
+      "category": "LIMITADORES"
+    },
+    {
+      "address": "E1C0C",
+      "rows": 16,
+      "cols": 16,
+      "name": "Start of Injection",
+      "category": "SOI"
+    },
+    {
+      "address": "E20A8",
+      "rows": 16,
+      "cols": 16,
+      "name": "Start of Injection",
+      "category": "SOI"
+    },
+    {
+      "address": "E49DC",
+      "rows": 16,
+      "cols": 16,
+      "name": "Start of Injection",
+      "category": "SOI"
+    },
+    {
+      "address": "E4C20",
+      "rows": 16,
+      "cols": 16,
+      "name": "Start of Injection",
+      "category": "SOI"
+    },
+    {
+      "address": "ECD94",
+      "rows": 5,
+      "cols": 6,
+      "name": "IQ Limit by Fuel Temp.",
+      "category": "LIMITADORES"
+    },
+    {
+      "address": "ED1C2",
+      "rows": 40,
+      "cols": 16,
+      "name": "Injection Duration CR",
+      "category": "INYECCION"
+    },
+    {
+      "address": "F0074",
+      "rows": 16,
+      "cols": 16,
+      "name": "N75",
+      "category": "VNT / N75"
+    },
+    {
+      "address": "F05AA",
+      "rows": 12,
+      "cols": 16,
+      "name": "N75",
+      "category": "VNT / N75"
+    },
+    {
+      "address": "F07EE",
+      "rows": 12,
+      "cols": 16,
+      "name": "N75",
+      "category": "VNT / N75"
+    },
+    {
+      "address": "F0E2A",
+      "rows": 16,
+      "cols": 16,
+      "name": "N75",
+      "category": "VNT / N75"
+    },
+    {
+      "address": "F1070",
+      "rows": 16,
+      "cols": 16,
+      "name": "N75",
+      "category": "VNT / N75"
+    },
+    {
+      "address": "F197A",
+      "rows": 16,
+      "cols": 16,
+      "name": "Turbo Boost",
+      "category": "TURBO / BOOST"
+    },
+    {
+      "address": "F1BBE",
+      "rows": 16,
+      "cols": 16,
+      "name": "Turbo Boost",
+      "category": "TURBO / BOOST"
+    },
+    {
+      "address": "F1E06",
+      "rows": 16,
+      "cols": 16,
+      "name": "Turbo Boost",
+      "category": "TURBO / BOOST"
+    },
+    {
+      "address": "F227C",
+      "rows": 10,
+      "cols": 13,
+      "name": "Turbo Boost Limiter",
+      "category": "TURBO / BOOST"
+    },
+    {
+      "address": "F248E",
+      "rows": 1,
+      "cols": 1,
+      "name": "SVBL",
+      "category": "LIMITADORES"
+    },
+    {
+      "address": "F2E9A",
+      "rows": 16,
+      "cols": 16,
+      "name": "N75",
+      "category": "VNT / N75"
+    },
+    {
+      "address": "F3948",
+      "rows": 16,
+      "cols": 16,
+      "name": "Turbo Boost",
+      "category": "TURBO / BOOST"
+    },
+    {
+      "address": "F3B74",
+      "rows": 10,
+      "cols": 10,
+      "name": "BMW Turbo Limiter",
+      "category": "TURBO / BOOST"
+    },
+    {
+      "address": "F8E92",
+      "rows": 3,
+      "cols": 3,
+      "name": "BMW Speed Temp Limiter",
+      "category": "LIMITADORES"
+    },
+    {
+      "address": "F93E4",
+      "rows": 12,
+      "cols": 8,
+      "name": "Rail Regulation",
+      "category": "RAIL / PRESION"
+    },
+    {
+      "address": "F972C",
+      "rows": 4,
+      "cols": 1,
+      "name": "BMW Rail Limiter 2",
+      "category": "RAIL / PRESION"
+    },
+    {
+      "address": "F9BAA",
+      "rows": 12,
+      "cols": 6,
+      "name": "Rail Regulation",
+      "category": "RAIL / PRESION"
+    },
+    {
+      "address": "F9CDC",
+      "rows": 16,
+      "cols": 16,
+      "name": "Rail Pressure",
+      "category": "RAIL / PRESION"
+    },
+    {
+      "address": "FA02C",
+      "rows": 16,
+      "cols": 16,
+      "name": "Rail Pressure",
+      "category": "RAIL / PRESION"
+    },
+    {
+      "address": "FA4BE",
+      "rows": 16,
+      "cols": 16,
+      "name": "Rail Pressure",
+      "category": "RAIL / PRESION"
+    },
+    {
+      "address": "FAAF0",
+      "rows": 8,
+      "cols": 8,
+      "name": "Rail Limit by Temperature",
+      "category": "RAIL / PRESION"
+    },
+    {
+      "address": "FABA4",
+      "rows": 5,
+      "cols": 6,
+      "name": "Rail Limit by Temperature",
+      "category": "RAIL / PRESION"
+    },
+    {
+      "address": "FABFA",
+      "rows": 6,
+      "cols": 5,
+      "name": "BMW Rail Limiter",
+      "category": "RAIL / PRESION"
+    },
+    {
+      "address": "FB656",
+      "rows": 1,
+      "cols": 1,
+      "name": "SV Rail Limiter",
+      "category": "RAIL / PRESION"
+    },
+    {
+      "address": "FB68E",
+      "rows": 4,
+      "cols": 1,
+      "name": "Rail Sensor",
+      "category": "SENSORES"
+    },
+    {
+      "address": "FC198",
+      "rows": 10,
+      "cols": 8,
+      "name": "Start IQ",
+      "category": "INYECCION"
+    }
+  ]
+}

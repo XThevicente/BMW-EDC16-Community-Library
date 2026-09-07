@@ -1,0 +1,7 @@
+{
+  "manifest_url": "https://raw.githubusercontent.com/XThevicente/BMW-EDC16-Community-Library/main/manifest.json",
+  "auto_update": true,
+  "timeout": 10,
+  "online_library": "GitHub Raw / HTTPS",
+  "notes": "Pon aquí la URL HTTPS directa al manifest.json del repositorio comunitario. Los perfiles del manifest pueden usar URLs relativas."
+}
