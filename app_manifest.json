@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "v84",
-  "url": "https://github.com/XThevicente/BMW-EDC16-Community-Library/releases/download/v84/BMW_EDC16_Suite_Python314_v84_AUTO_UPDATE.zip",
-  "sha256": "397cca1bd1bf16f71faac943285a55e97dd4fb836b675d25248b8676125b7ff2",
-  "notes": "v84: prueba real del actualizador automático y updater más robusto."
+  "version": "v85",
+  "url": "https://github.com/XThevicente/BMW-EDC16-Community-Library/releases/download/v85/BMW_EDC16_Suite_Python314_v85_AUTO_UPDATE.zip",
+  "sha256": "db2711b7d6ef40c7788b4ea1e2d9377ed11b5666a893e3815dcadf664bf0485a",
+  "notes": "v85: actualizador automático corregido con validación SHA-256 robusta."
 }
