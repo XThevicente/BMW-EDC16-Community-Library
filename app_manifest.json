@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "version": "v87",
-  "url": "https://github.com/XThevicente/BMW-EDC16-Community-Library/releases/download/v87/BMW_EDC16_Suite_v87_CLEAN_ROOT_PRO.zip",
-  "sha256": "a2e72a6355e7a4efdf59c8325108fe4af24863b22c222c8499f2aff4528d51a9",
-  "notes": "v87: interfaz PRO consolidada, raíz limpia y análisis ECU completo."
+  "url": "https://github.com/XThevicente/BMW-EDC16-Community-Library/releases/download/v87/BMW_EDC16_Suite_v87_FINAL_PUBLICO.zip",
+  "sha256": "cc413b24ab968b7f52033888c81fb5198904a23b43c730599be4f6f6917fed50",
+  "notes": "v87: versión pública con interfaz PRO, estructura raíz limpia y actualizador robusto."
 }
