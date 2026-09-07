@@ -2,6 +2,6 @@
   "schema": 1,
   "version": "v85",
   "url": "https://github.com/XThevicente/BMW-EDC16-Community-Library/releases/download/v85/BMW_EDC16_Suite_Python314_v85_AUTO_UPDATE.zip",
-  "sha256": "db2711b7d6ef40c7788b4ea1e2d9377ed11b5666a893e3815dcadf664bf0485a",
+  "sha256": "4a713e09b55e114c70569221fa2b02f97c1a21a38325142803add07ba8cf36cd",
   "notes": "v85: actualizador automático corregido con validación SHA-256 robusta."
 }
